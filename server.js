@@ -29,7 +29,7 @@ app.get("/notes", (req, res) => {
 
 // Adding wildcard route
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "/public/404.html"))
+  res.sendFile(path.join(__dirname, "/public/index.html"))
 })
 
 // Listen for the port
