@@ -1,1 +1,12 @@
-[{"id":"d3271018-034c-4b03-94b7-09e9102acda1","title":"Sample Note","text":"Sample note"},{"id":"01ac38d7-2624-4e25-a9bb-ed097c611ca7","title":"Check the stock market","text":"Check Apple Stock News"}]
+[
+  {
+    "id": "d3271018-034c-4b03-94b7-09e9102acda1",
+    "title": "Sample Note",
+    "text": "Sample note"
+  },
+  {
+    "id": "01ac38d7-2624-4e25-a9bb-ed097c611ca7",
+    "title": "Check the stock market",
+    "text": "Check Apple Stock News"
+  }
+]

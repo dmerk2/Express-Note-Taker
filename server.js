@@ -27,7 +27,7 @@ app.get("/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "/public/notes.html"));
 });
 
-// Adding wildcard route
+// Adding wildcard route to index.html
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "/public/index.html"))
 })
