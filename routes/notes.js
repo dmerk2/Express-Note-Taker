@@ -30,7 +30,6 @@ notes.post("/", (req, res) => {
   }
 });
 
-
 // DELETE request for individual notes based off the id
 notes.delete("/:id", (req, res) => {
   const { id } = req.params;
